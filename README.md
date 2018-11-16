@@ -1,4 +1,4 @@
-# Take a look a branch 'mbanga'
+# Take a look at branch 'mbanga'
 # DS Lab - Final Assignment: Robust Journey Planning
 
 The final assignment is to be done in **groups of 3 or, preferably, 4**.
